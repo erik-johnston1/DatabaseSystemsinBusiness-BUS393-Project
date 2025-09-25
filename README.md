@@ -2,7 +2,8 @@
 This repository contains the file to construct, insert data, and test the functionality of the relational database for a fictional coffee shop called LES Coffee in SQL.
 
 ## Overview
-The SQL database in this repo is the finished product of a class project where my group and myself were tasked with developing the business logic for a fictional business by defining the entities and rules required for day-to-day functions in a domain of our choice.
+The SQL database in this repo is the finished product of a class project where my group and myself were tasked with developing the business logic for a fictional business by defining the entities and rules required for day-to-day functions in a domain of our choice.  
+Note: While the project was collaborative, all SQL code was written by myself
 
 ## Entities
 • Barista  
