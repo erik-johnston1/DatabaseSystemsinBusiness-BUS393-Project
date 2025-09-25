@@ -19,6 +19,6 @@ The SQL database in this repo is the finished product of a class project where m
 • Barista can prepare multiple orders.  
 
 ## ER Diagram - Logic Design
-![]()
+![ER Diagram](LogicalDesign_BUS393Proj.png)
 ## Converting ER Diagram to Relations through Normalization
-![]()
+![Normalized Relations](NormalizedRelations_BUS393Proj.png)
